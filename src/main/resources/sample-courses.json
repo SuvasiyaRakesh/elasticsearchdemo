@@ -1,0 +1,77 @@
+[
+  {
+    "id": "course-001",
+    "title": "Math Magic",
+    "description": "A fun and interactive course on Math Magic",
+    "category": "History",
+    "type": "online",
+    "price": 805.56,
+    "minAge": 7,
+    "nextSessionDate": "2026-01-19T17:44:58.742Z",
+    "suggest": {
+      "input": [
+        "Math Magic"
+      ]
+    }
+  },
+  {
+    "id": "course-002",
+    "title": "Science Sleuths",
+    "description": "A fun and interactive course on Science Sleuths",
+    "category": "Geography",
+    "type": "offline",
+    "price": 1177.25,
+    "minAge": 6,
+    "nextSessionDate": "2025-11-05T13:14:58.742Z",
+    "suggest": {
+      "input": [
+        "Science Sleuths"
+      ]
+    }
+  },
+  {
+    "id": "course-003",
+    "title": "Healthy Habits",
+    "description": "A fun and interactive course on Healthy Habits",
+    "category": "Health",
+    "type": "online",
+    "price": 1110.54,
+    "minAge": 6,
+    "nextSessionDate": "2025-10-09T01:24:58.742Z",
+    "suggest": {
+      "input": [
+        "Healthy Habits"
+      ]
+    }
+  },
+  {
+    "id": "course-004",
+    "title": "Creative Colors",
+    "description": "A fun and interactive course on Creative Colors",
+    "category": "History",
+    "type": "offline",
+    "price": 510.38,
+    "minAge": 8,
+    "nextSessionDate": "2025-12-28T22:32:58.742Z",
+    "suggest": {
+      "input": [
+        "Creative Colors"
+      ]
+    }
+  },
+  {
+    "id": "course-005",
+    "title": "Story Builders",
+    "description": "A fun and interactive course on Story Builders",
+    "category": "Geography",
+    "type": "offline",
+    "price": 373.44,
+    "minAge": 6,
+    "nextSessionDate": "2025-12-29T19:53:58.742Z",
+    "suggest": {
+      "input": [
+        "Story Builders"
+      ]
+    }
+  }
+]
