@@ -168,27 +168,6 @@ curl "http://localhost:8081/api/search/suggest?q=mat"
 
 ---
 
-## 📹 Video Demo (What to Record)
-
-1. Show Elasticsearch running in Docker
-2. Run the Spring Boot app and show console logs (`✅ Indexed X courses`)
-3. Open Postman or browser and:
-   - Call `/api/search?q=math`
-   - Call `/api/search/suggest?q=mat`
-4. Show pagination, sorting, and filters
-5. (Optional) Show fuzzy match results
-
----
-
-## 🧾 Submission Checklist
-
-✅ GitHub repo: `https://github.com/SuvasiyaRakesh/elasticsearchdemo`  
-✅ Video uploaded to Drive/YouTube (3–5 mins)  
-✅ All sample data included  
-✅ README with setup and examples (✅ This file)
-
----
-
 ## 👤 Author
 
 **Rakesh Suvasiya**  
